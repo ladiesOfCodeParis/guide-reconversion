@@ -1,9 +1,9 @@
 Le but de ce repo est de centraliser toutes les informations que nous avons collectées sur la reconversion dans un metier du numerique. 
-Retours d'experiences, listes de formations, conseils, ... 
+Retours d'expériences, listes de formations, conseils, ... 
 
 
-Les differents sujets qui doivent etre couvertes dans ce guide ont des issues.
-Pour chaque issue in crée une branche et une pulle request. 
+Les différents sujets qui doivent être couverts dans ce guide ont des issues.
+Pour chaque issue, on crée une branche et une pull request. 
 
 Le board Kanban pour suivre l'avancée est ici: 
-https://trello.com/b/yqBChKL1/guide-reconversion
+https://github.com/ladiesOfCodeParis/guide-reconversion/projects/1?add_cards_query=is%3Aopen
